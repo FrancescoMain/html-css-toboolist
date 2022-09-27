@@ -26,3 +26,35 @@ h1 {
 main {
     padding: 60px 20%;
 }
+
+.Buttons {
+    margin:  30px auto;
+}
+
+.blueback {
+    background-color: cornflowerblue;
+}
+
+.buttonlayout  {
+    border-radius: 4px;
+    border: 0px;
+    height: 25px;
+    width: 80px;
+   
+}
+
+.whitetext {
+    color: white;
+}
+
+.greytext {
+    color: rgb(211, 210, 210);
+}
+
+
+.buttonlayoutsection {
+    border-radius: 4px;
+    height: 25px;
+    width: 80px;
+    border-color: rgb(211, 210, 210);
+}
