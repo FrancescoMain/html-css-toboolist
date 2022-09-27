@@ -24,7 +24,7 @@ h1 {
 
 /* regole main */
 main {
-    padding: 60px 20%;
+    padding: 35px 20%;
 }
 
 .Buttons {
@@ -57,4 +57,40 @@ main {
     height: 25px;
     width: 80px;
     border-color: rgb(211, 210, 210);
+}
+
+h2{
+    font-size: 18px;
+    margin: 10px auto;
+}
+
+section {
+    line-height: 2;
+}
+
+span {
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 6px;
+    color: white;
+}
+
+.violetback {
+    background-color: blueviolet;
+}
+
+.greenback {
+    background-color: mediumseagreen;
+}
+
+.orangeback {
+    background-color: orange;
+}
+
+.pinkback {
+    background-color: pink;
+}
+
+.lgreenback {
+    background-color: greenyellow;
 }
